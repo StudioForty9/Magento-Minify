@@ -1,3 +1,4 @@
+app/code/community/WBL/Minify/                             app/code/community/WBL/Minify/
 app/design/frontend/base/default/layout/wbl_minify.xml     app/design/frontend/base/default/layout/wbl_minify.xml
 app/etc/modules/WBL_Minify.xml                             app/etc/modules/WBL_Minify.xml
 js/less/init.js                                            js/less/init.js
